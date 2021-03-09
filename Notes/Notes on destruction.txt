@@ -1,0 +1,10 @@
+Notes on destructions
+
+Buildings
+-> level design based on destruction
+-> desturction animations out of houdini autodestructiontool
+-> particle animations
+Ground and other big thick solids
+-> Decals with ground particle for damage been done
+Combat design
+-> amount of lower force towards next collision when first colliding
